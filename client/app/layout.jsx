@@ -1,4 +1,5 @@
 import { Cinzel, Cormorant_Garamond } from "next/font/google";
+import { ViewTransitions } from 'next-view-transitions';
 import "./globals.css";
 
 const display = Cinzel({
@@ -20,8 +21,10 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body className={`${display.variable} ${body.variable}`}>{children}</body>
-    </html>
+    <ViewTransitions>
+      <html lang="en">
+        <body className={`${display.variable} ${body.variable}`}>{children}</body>
+      </html>
+    </ViewTransitions>
   );
 }

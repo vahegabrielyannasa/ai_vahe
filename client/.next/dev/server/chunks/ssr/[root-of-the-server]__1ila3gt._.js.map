@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/Desktop/ai-tumo/ai_vahe/client/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Admin/Desktop/ai-tumo/ai_vahe/client/app/levonarqa/page.jsx"],"sourcesContent":["export default function LevoaArqa() {\r\n   return (\r\n        <div className=\"flex flex-col items-center justify-center min-h-screen py-2\">\r\n            <h1 className=\"text-4xl font-bold mb-4\">Welcome to Levoa Arqa</h1>\r\n            <p className=\"text-lg text-center max-w-md\">\r\n                Explore the wonders of Levoa Arqa, a place where imagination and reality intertwine.\r\n            </p>\r\n        </div>\r\n    );\r\n}"],"names":["LevoaArqa","className"],"mappings":";;;;;;AAAe,SAASA;IACrB,qBACK,8OAAC;QAAIC,WAAU;;0BACX,8OAAC;gBAAGA,WAAU;0BAA0B;;;;;;0BACxC,8OAAC;gBAAEA,WAAU;0BAA+B;;;;;;;;;;;;AAKxD"}}]
+}

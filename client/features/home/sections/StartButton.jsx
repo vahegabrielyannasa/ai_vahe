@@ -1,5 +1,6 @@
 "use client";
 
+import { Link } from "next-view-transitions";
 import { useState } from "react";
 
 export default function StartButton() {
@@ -10,13 +11,8 @@ export default function StartButton() {
   }
 
   return (
-    <button
-      type="button"
-      className={`start-button${started ? " is-started" : ""}`}
-      onClick={handleStart}
-    >
-      {started ? "Here we go!" : "Start Your Adventure"}
-      <span aria-hidden="true">→</span>
-    </button>
+    <Link href="/create" className="start-link">
+      Start Your Adventure
+    </Link>
   );
 }
