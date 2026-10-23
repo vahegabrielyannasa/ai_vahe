@@ -201,7 +201,7 @@ def generate_story(
 
 
     response = client.models.generate_content(
-        model=os.getenv("GEMINI_MODEL", "gemini-3-flash-preview"),
+        model=os.getenv("GEMINI_MODEL"),
         contents=prompt,
         config=types.GenerateContentConfig(
             system_instruction=STORYTELLER_SYSTEM_PROMPT,
