@@ -1,4 +1,4 @@
-from pydantic  import BaseModel
+from pydantic import BaseModel
 
 class StoryRequest(BaseModel):
     characterName: str
@@ -6,3 +6,7 @@ class StoryRequest(BaseModel):
     world: str
     description: str
     steps: int
+
+class GeneratedStory(BaseModel):
+    title: str
+    pages: list[str]

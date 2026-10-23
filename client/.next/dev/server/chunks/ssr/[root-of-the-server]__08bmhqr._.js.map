@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 13, "column": 0}, "map": {"version":3,"sources":["file:///Users/user/Desktop/ai/ai_vahe/client/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 256, height: 256 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,mIAAG;IAAEC,OAAO;IAAKC,QAAQ;AAAI"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":["file:///Users/user/Desktop/ai/ai_vahe/client/app/page.jsx"],"sourcesContent":["import { Home } from \"@/features/home\";\n\nexport default function Page() {\n  return (\n    <Home.Main>\n      <Home.Header />\n      <Home.Hero />\n      <Home.Features />\n      <Home.Tagline />\n    </Home.Main>\n  );\n}\n"],"names":["Page","Home","Main","Header","Hero","Features","Tagline"],"mappings":";;;;;;;;;;;;AAEe,SAASA;IACtB,qBACE,8OAACC,KAAKC,IAAI;;0BACR,8OAACD,KAAKE,MAAM;;;;;0BACZ,8OAACF,KAAKG,IAAI;;;;;0BACV,8OAACH,KAAKI,QAAQ;;;;;0BACd,8OAACJ,KAAKK,OAAO;;;;;;;;;;;AAGnB"}}]
+}

@@ -1,40 +1,37 @@
 [
   {
     "route": "/",
-    "firstLoadUncompressedJsBytes": 481022,
+    "firstLoadUncompressedJsBytes": 480875,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0xsyl0nth6am6.js",
-      ".next\\static\\chunks\\11pxbkazji43x.js",
-      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
-      ".next\\static\\chunks\\19mx3mg6lkumu.js",
-      ".next\\static\\chunks\\1j_9b-l0n6u-t.js",
-      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
-      ".next\\static\\chunks\\turbopack-0ymco23n1zhu4.js"
+      ".next/static/chunks/0xsyl0nth6am6.js",
+      ".next/static/chunks/11pxbkazji43x.js",
+      ".next/static/chunks/22emux2du5j43.js",
+      ".next/static/chunks/1z99mlp5cofct.js",
+      ".next/static/chunks/1j_9b-l0n6u-t.js",
+      ".next/static/chunks/turbopack-45b_iodfml8b3.js"
     ]
   },
   {
     "route": "/create",
-    "firstLoadUncompressedJsBytes": 472367,
+    "firstLoadUncompressedJsBytes": 471844,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0xsyl0nth6am6.js",
-      ".next\\static\\chunks\\365c47xs7ph_9.js",
-      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
-      ".next\\static\\chunks\\19mx3mg6lkumu.js",
-      ".next\\static\\chunks\\1j_9b-l0n6u-t.js",
-      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
-      ".next\\static\\chunks\\turbopack-0ymco23n1zhu4.js"
+      ".next/static/chunks/0xsyl0nth6am6.js",
+      ".next/static/chunks/14yjjqlrc47eh.js",
+      ".next/static/chunks/22emux2du5j43.js",
+      ".next/static/chunks/1z99mlp5cofct.js",
+      ".next/static/chunks/1j_9b-l0n6u-t.js",
+      ".next/static/chunks/turbopack-45b_iodfml8b3.js"
     ]
   },
   {
     "route": "/_not-found",
-    "firstLoadUncompressedJsBytes": 464961,
+    "firstLoadUncompressedJsBytes": 464814,
     "firstLoadChunkPaths": [
-      ".next\\static\\chunks\\0xsyl0nth6am6.js",
-      ".next\\static\\chunks\\3s6nzrbk-8mnv.js",
-      ".next\\static\\chunks\\19mx3mg6lkumu.js",
-      ".next\\static\\chunks\\1j_9b-l0n6u-t.js",
-      ".next\\static\\chunks\\2-rtuqsgzmno4.js",
-      ".next\\static\\chunks\\turbopack-0ymco23n1zhu4.js"
+      ".next/static/chunks/0xsyl0nth6am6.js",
+      ".next/static/chunks/22emux2du5j43.js",
+      ".next/static/chunks/1z99mlp5cofct.js",
+      ".next/static/chunks/1j_9b-l0n6u-t.js",
+      ".next/static/chunks/turbopack-45b_iodfml8b3.js"
     ]
   }
 ]

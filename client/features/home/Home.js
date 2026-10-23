@@ -3,6 +3,7 @@ import Header from "@/features/home/sections/Header";
 import Hero from "@/features/home/sections/Hero";
 import Main from "@/features/home/sections/Main";
 import Tagline from "@/features/home/sections/Tagline";
+import "./home.css";
 
 export const Home = {
   Main,
